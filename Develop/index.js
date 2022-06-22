@@ -33,7 +33,7 @@ function promptUser(){
         {
             type: "input",
             name: "contributing",
-            message: "List the contributors of your projects?"
+            message: "List the contributors of your project?"
         },
         {
             type: "input",
@@ -43,7 +43,7 @@ function promptUser(){
         {
             type: "list",
             name: "license",
-            message: "Chose the required license for this project: ",
+            message: "Chose the required license for your project: ",
             choices: [
                 "Apache",
                 "GNU",
