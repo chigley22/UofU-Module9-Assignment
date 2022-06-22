@@ -1,1 +1,3 @@
-node_modules
+node_modules/
+# Ask what happens if I didn't add .DS_Store/ before installing npm
+.DS_Store/
